@@ -22,4 +22,4 @@
 ✨ If you like my projects, you can buy me a coffee at:
  - [Saweria](https://saweria.co/Ramonymous)
 
-🤔 Find out more of my awesome projects below, or subscribe me by clicking the "Follow" button.
+🤔 Find out more of my awesome projects, or subscribe me by clicking the "Follow" button.
