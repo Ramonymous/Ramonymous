@@ -11,8 +11,9 @@
 
 ## 🔭 I’m currently working on
 - PT. Adyawinsa Stamping Industries (Plant 2) - PPIC Staff (Employed)
-- Side Projects: 1. [PW Reborn 165](https://perfectworld165reborn.org) - Sys Admin
-                 2. [PW Classic 136 Modern](https://136.pwclassic.site/) - Sys Admin
+- Side Projects: 
+- 1. [PW Reborn 165](https://perfectworld165reborn.org) - Sys Admin
+- 2. [PW Classic 136 Modern](https://136.pwclassic.site/) - Sys Admin
   
 ## 🌱 I’m currently learning
 - Computer Science
