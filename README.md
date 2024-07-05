@@ -1,25 +1,28 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ramonymous&show_icons=true&hide_border=true&icon_color=000&title_color=000&include_all_commits_disable=false&custom_title=Ramonymous~&count_private=true">
+<h1 align="center">Hi there 👋, I'm Ramonymous</h1>
+<h3 align="center">A worker from Indonesia</h3>
+<p align="center">Studying & working for a better future.</p>
 
-# Ramonymous 🔭
+## ⚡ What I can do
+- Backend web development (PHP)
+- Frontend web development (HTML, CSS, JavaScript)
+- Scripting (JavaScript)
+- ✨ Came up with ideas and solutions ✨
+- and more! (Still learning)
 
-### Hi there 👋 This... It's me? Okay.
-💬 a.k.a. Amon, Rama Pamungkas.
-> ⚡ A coder who is passionate about web technologies and open source.
+## 🔭 I’m currently working on
+- PT. Adyawinsa Stamping Industries (Plant 2) - PPIC Staff (Employed)
+- Side Projects: 1. [PW Reborn 165](https://perfectworld165reborn.org) - Sys Admin
+                 2. [PW Classic 136 Modern](https://136.pwclassic.site/) - Sys Admin
+  
+## 🌱 I’m currently learning
+- Computer Science
+- PHP 8
+- The wonders of AI
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramonymous&hide_border=true&title_color=000&layout=compact">
+## 👯 I’m looking to collaborate on
+- Something new and exciting
 
-- Indonesian
-- Unemployment
-- Developer / Coder
+## 📫 How to reach me:
+- Email: `saya.ramapamungkas@gmail.com`
 
-🌱
-![PHP](https://img.shields.io/badge/-PHP-8892bf?style=flat-square&logo=PHP&logoColor=fff)
-
-😄 Currently I’m a [@Ramonymous-Dev](https://ramonymous-dev.business.site) core develop team author.
-
-
-## 💰 Buy me a coffee
-✨ If you like my projects, you can buy me a coffee at:
- - [Saweria](https://saweria.co/Ramonymous)
-
-🤔 Find out more of my awesome projects, or subscribe me by clicking the "Follow" button.
+[![PlanetTheCloud's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ramonymous&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
